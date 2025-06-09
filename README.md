@@ -19,7 +19,7 @@ Here are a few of the real-world projects I've contributed to:
 - ⚡ **Rechargej** – is an app specialized in gift cards for customers and merchants 
 - 🏘️ **AqarImmo** – Real estate listing and management platform
 - 🛋️ **Mexa_meuble** – Furniture e-commerce backend
-- 📚 **Nahla** – Current project:e-commerce platform (Back-End using Laravel + Filament)
+- 📚 **Nahla** – Current project: e-commerce platform (Back-End using Laravel + Filament)
 
 ---
 
